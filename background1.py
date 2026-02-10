@@ -73,6 +73,6 @@ bg.save(full_path)
 
 # Print success messages showing where the file was saved
 print(f"\n✓ Saved successfully!")
-print(f"📁 Folder: {save_folder}")
-print(f"📄 File: {file_name}")
-print(f"🎨 Colors: {color1} → {color2}")
+print(f" Folder: {save_folder}")
+print(f" File: {file_name}")
+print(f" Colors: {color1} → {color2}")
